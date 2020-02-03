@@ -1,7 +1,8 @@
 This folder contains the script for the intersections (intersections_hypergeometric.py) and for the BH pvalue adjustment (benjamini.R).
+To run the pipeline, just clone it and launch the pipeline.sh script from a bash shell from the same folder. Make sure your system fullfill the following software requirements.
 
 Software requirements:
--Python 3 and the following packages:
+-Python 3 with the following packages:
 	- sys
 	- argparse
 	- re
