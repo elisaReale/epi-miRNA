@@ -1,0 +1,12 @@
+miRTarBase ID       miRNA               Species (miRNA)     Target Gene         Target Gene (Entrez Gene ID)            Species (Target Gene)                   Experiments         Support Type        References (PMID)
+MIRT001053	hsa-miR-1-3p	Homo sapiens	HDAC4	9759	Homo sapiens	Western blot//Luciferase reporter assay	Functional MTI	18818206
+MIRT001053	hsa-miR-1-3p	Homo sapiens	HDAC4	9759	Homo sapiens	Western blot	Functional MTI	18593903
+MIRT001053	hsa-miR-1-3p	Homo sapiens	HDAC4	9759	Homo sapiens	Luciferase reporter assay//qRT-PCR//Western blot	Functional MTI	24858276
+MIRT006696	hsa-miR-185-5p	Homo sapiens	DNMT1	1786	Homo sapiens	Immunoprecipitaion//Luciferase reporter assay//Microarray//Quantitative proteomic approach//Western blot	Functional MTI	21962230
+MIRT006696	hsa-miR-185-5p	Homo sapiens	DNMT1	1786	Homo sapiens	Flow//Immunoprecipitaion//qRT-PCR//Western blot	Functional MTI	23846337
+MIRT006696	hsa-miR-185-5p	Homo sapiens	DNMT1	1786	Homo sapiens	qRT-PCR//Luciferase reporter assay//Western blot	Functional MTI	23318422
+MIRT023724	hsa-miR-1-3p	Homo sapiens	HDAC2	3066	Homo sapiens	Proteomics	Functional MTI (Weak)	18668040
+MIRT030619	hsa-miR-24-3p	Homo sapiens	HDAC1	3065	Homo sapiens	Sequencing	Functional MTI (Weak)	20371350
+MIRT054265	hsa-miR-200a-3p	Homo sapiens	EZH2	2146	Homo sapiens	ChIP-seq//qRT-PCR//Western blot	Functional MTI	25595591
+MIRT437437	hsa-miR-144-3p	Homo sapiens	EZH2	2146	Homo sapiens	ChIP-seq//Luciferase reporter assay//qRT-PCR//Western blot	Functional MTI	23815091
+MIRT673027	hsa-miR-24-3p	Homo sapiens	RBBP4	5928	Homo sapiens	HITS-CLIP	Functional MTI (Weak)	23824327

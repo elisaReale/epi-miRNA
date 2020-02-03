@@ -1,0 +1,260 @@
+BMI1_DN.V1_DN
+> Genes down-regulated in DAOY cells (medulloblastoma) upon knockdown of BMI1 [Gene ID=648] gene by RNAi.
+PMID: Pubmed 17452456
+Number of genes in the set:144
+________________
+
+BMI1_DN.V1_UP
+> Genes up-regulated in DAOY cells (medulloblastoma) upon knockdown of BMI1 [Gene ID=648] gene by RNAi.
+PMID:Pubmed 17452456
+Number of genes in the set:147
+________________
+
+DOUGLAS_BMI1_TARGETS_DN
+> Genes down-regulated in A4573 cells (Ewing's sarcoma, ESFT) after knockdown of BMI1 [GeneID=648] by RNAi.
+PMID:Pubmed 18701473
+Number of genes in the set:314
+________________
+
+DOUGLAS_BMI1_TARGETS_UP
+> Genes up-regulated in A4573 cells (Ewing's sarcoma, ESFT) after knockdown of BMI1 [GeneID=648] by RNAi.
+PMID: Pubmed 18701473
+Number of genes in the set:566
+________________
+
+GSE27434_WT_VS_DNMT1_KO_TREG_DN
+> Genes down-regulated in T reg: wildtype versus DNMT1 [GeneID=1786] knockout.
+PMID:Pubmed 23444399
+Number of genes in the set:200
+________________
+
+GSE27434_WT_VS_DNMT1_KO_TREG_UP
+> Genes up-regulated in T reg: wildtype versus DNMT1 [GeneID=1786] knockout.
+PMID:Pubmed 23444399
+Number of genes in the set:200
+________________
+
+HELLER_HDAC_TARGETS_DN
+> Genes down-regulated in at least one of three multiple myeloma (MM) cell lines by TSA [PubChem=5562].
+PMID:Pubmed 18172295
+Number of genes in the set:292
+________________
+
+HELLER_HDAC_TARGETS_UP
+> Genes up-regulated in at least one of three multiple myeloma (MM) cell lines by TSA [PubChem=5562].
+PMID:Pubmed 18172295
+Number of genes in the set:317
+________________
+
+JACKSON_DNMT1_TARGETS_DN
+> Genes down-regulated in MEF cells (embryonic fibroblast) upon Cre-lox knockout of DNMT1 [GeneID=1786].
+PMID:Pubmed 11137995
+Number of genes in the set:25
+________________
+
+JACKSON_DNMT1_TARGETS_UP
+> Genes up-regulated in MEF cells (embryonic fibroblast) upon Cre-lox knockout of DNMT1 [GeneID=1786].
+PMID:Pubmed 11137995
+Number of genes in the set:77
+________________
+
+MEL18_DN.V1_DN
+> Genes down-regulated in DAOY cells (medulloblastoma) upon knockdown of PCGF2 [Gene ID=7703] gene by RNAi.
+PMID:Pubmed 17452456
+Number of genes in the set:148
+________________
+
+MEL18_DN.V1_UP
+> Genes up-regulated in DAOY cells (medulloblastoma) upon knockdown of PCGF2 [Gene ID=7703] gene by RNAi.
+PMID:Pubmed 17452456
+Number of genes in the set:141
+________________
+
+PRC1_BMI_UP.V1_DN
+> Genes down-regulated in TIG3 cells (fibroblasts) upon knockdown of BMI1 [Gene ID=648] gene.
+PMID:Pubmed 16618801
+Number of genes in the set:192
+________________
+
+PRC1_BMI_UP.V1_UP
+> Genes up-regulated in TIG3 cells (fibroblasts) upon knockdown of BMI1 [Gene ID=648] gene.
+PMID:Pubmed 16618801
+Number of genes in the set:190
+________________
+
+SENESE_HDAC1_TARGETS_DN
+> Genes down-regulated in U2OS cells (osteosarcoma) upon knockdown of HDAC1 [GeneID=3065] by RNAi.
+PMID:Pubmed 17470557
+Number of genes in the set:260
+________________
+
+SENESE_HDAC1_TARGETS_UP
+> Genes up-regulated in U2OS cells (osteosarcoma) upon knockdown of HDAC1 [GeneID=3065] by RNAi.
+PMID:Pubmed 17470557
+Number of genes in the set:457
+________________
+
+SENESE_HDAC2_TARGETS_DN
+> Genes down-regulated in U2OS cells (osteosarcoma) upon knockdown of HDAC2 [GeneID=3066] by RNAi.
+PMID:Pubmed 17470557
+Number of genes in the set:133
+________________
+
+SENESE_HDAC2_TARGETS_UP
+> Genes up-regulated in U2OS cells (osteosarcoma) upon knockdown of HDAC2 [GeneID=3066] by RNAi.
+PMID:Pubmed 17470557
+Number of genes in the set:114
+________________
+
+SENESE_HDAC3_TARGETS_DN
+> Genes down-regulated in U2OS cells (osteosarcoma) upon knockdown of HDAC3 [GeneID=8841] by RNAi.
+PMID:Pubmed 17470557
+Number of genes in the set:536
+________________
+
+SENESE_HDAC3_TARGETS_UP
+> Genes up-regulated in U2OS cells (osteosarcoma) upon knockdown of HDAC3 [GeneID=8841] by RNAi.
+PMID:Pubmed 17470557
+Number of genes in the set:501
+________________
+
+BENPORATH_EED_TARGETS
+> Set 'Eed targets': genes identified by ChIP on chip as targets of the Polycomb protein EED [GeneID=8726] in human embryonic stem cells.
+PMID:Pubmed 18443585
+Number of genes in the set:1062
+________________
+
+BENPORATH_PRC2_TARGETS
+> Set 'PRC2 targets': Polycomb Repression Complex 2 (PRC) targets; identified by ChIP on chip on human embryonic stem cells as genes that: posess the trimethylated H3K27 mark in their promoters and are bound by SUZ12 [GeneID=23512] and EED [GeneID=8726] Polycomb proteins.
+PMID:Pubmed 18443585
+Number of genes in the set:652
+________________
+
+BENPORATH_SUZ12_TARGETS
+> Set 'Suz12 targets': genes identified by ChIP on chip as targets of the Polycomb protein SUZ12 [GeneID=23512] in human embryonic stem cells.
+PMID:Pubmed 18443585
+Number of genes in the set:1038
+________________
+
+KAMMINGA_EZH2_TARGETS
+> Putative targets or partners of EZH2 [GeneID=2146] in hematopoietic stem cells.
+PMID:Pubmed 16293602
+Number of genes in the set:41
+________________
+
+KONDO_EZH2_TARGETS
+> Genes up-regulated in PC3 cells (prostate cancer) after EZH2 [GeneID=2146] knockdown by RNAi.
+PMID:Pubmed 18488029
+Number of genes in the set:245
+________________
+
+LU_EZH2_TARGETS_DN
+> Genes down-regulated in SKOV3ip1 cells (ovarian cancer) upon knockdown of EZH2 [GeneID=2146] by RNAi.
+PMID:Pubmed 20708159
+Number of genes in the set:414
+________________
+
+LU_EZH2_TARGETS_UP
+> Genes up-regulated in SKOV3ip1 cells (ovarian cancer) upon knockdown of EZH2 [GeneID=2146] by RNAi.
+PMID:Pubmed 20708159
+Number of genes in the set:295
+________________
+
+MEISSNER_BRAIN_HCP_WITH_H3K27ME3
+> Genes with high-CpG-density promoters (HCP) bearing the H3K27 tri-methylation (H3K27me3) mark in brain.
+PMID:Pubmed 18600261
+Number of genes in the set:269
+________________
+
+MEISSNER_BRAIN_HCP_WITH_H3K4ME2_AND_H3K27ME3
+> Genes with high-CpG-density promoters (HCP) bearing bivalent histone H3 dimethylation mark at K4 (H3K4me2) and trimethlation mark at K27 (H3K27me3) in brain.
+PMID:Pubmed 18600261
+Number of genes in the set:59
+
+________________
+
+MEISSNER_BRAIN_HCP_WITH_H3K4ME3_AND_H3K27ME3
+> Genes with high-CpG-density promoters (HCP) bearing histone H3 dimethylation at K4 (H3K4me2) and trimethylation at K27 (H3K27me3) in brain.
+PMID:Pubmed 18600261
+Number of genes in the set:1069
+
+________________
+
+MEISSNER_ES_ICP_WITH_H3K4ME3_AND_H3K27ME3
+> Genes with intermediate-CpG-density promoters (ICP) bearing histone trimethylation marks at K4 (H3K4me3) and K27 (H3K27me3)ES cells (embryonic stem).
+PMID:Pubmed 18600261
+Number of genes in the set:14
+
+________________
+
+MEISSNER_NPC_HCP_WITH_H3K27ME3
+> Genes with high-CpG-density promoters (HCP) bearing the H3K27 tri-methylation (H3K27me3) mark in neural precursor cells (NPC).
+PMID:Pubmed 18600261
+Number of genes in the set:79
+________________
+
+MEISSNER_NPC_HCP_WITH_H3K4ME2_AND_H3K27ME3
+> Genes with high-CpG-density promoters (HCP) bearing histone H3 dimethylation mark at K4 (H3K4me2) and trimethylation mark at K27 (H3K27me3) in neural precursor cells (NPC).
+PMID:Pubmed 18600261
+Number of genes in the set:349
+________________
+
+MEISSNER_NPC_HCP_WITH_H3K4ME3_AND_H3K27ME3
+> Genes with high-CpG-density promoters (HCP) bearing histone H3 trimethylation marks at k4 (H3K4me3) and K27 ((H3K27me3) in neural precursor cells (NPC).
+PMID:Pubmed 18600261
+Number of genes in the set:142
+________________
+
+NUYTTEN_EZH2_TARGETS_DN
+> Genes down-regulated in PC3 cells (prostate cancer) after knockdown of EZH2 [GeneID=2146] by RNAi.
+PMID:Pubmed 17724462
+Number of genes in the set:1024
+________________
+
+NUYTTEN_EZH2_TARGETS_UP
+> Genes up-regulated in PC3 cells (prostate cancer) after knockdown of EZH2 [GeneID=2146] by RNAi.
+PMID:Pubmed 17724462
+Number of genes in the set:1037
+________________
+
+NUYTTEN_NIPP1_TARGETS_DN
+> Genes down-regulated in PC3 cells (prostate cancer) after knockdown of NIPP1 [GeneID=5511] by RNAi.
+PMID:Pubmed 17724462
+Number of genes in the set:848
+________________
+
+NUYTTEN_NIPP1_TARGETS_UP
+> Genes up-regulated in PC3 cells (prostate cancer) after knockdown of NIPP1 [GeneID=5511] by RNAi.
+PMID:Pubmed 17724462
+Number of genes in the set:769
+________________
+
+PASINI_SUZ12_TARGETS_DN
+> Genes down-regulated in ES (embryonic stem cells) with defficient SUZ12 [GeneID=23512].
+PMID:Pubmed 17339329
+Number of genes in the set:315
+________________
+
+PASINI_SUZ12_TARGETS_UP
+> Genes up-regulated in ES (embryonic stem cells) with defficient SUZ12 [GeneID=23512].
+PMID:Pubmed 17339329
+Number of genes in the set:112
+________________
+
+ROPERO_HDAC2_TARGETS
+> Genes up-regulated genes in cell lines with HDAC2 [GeneID=3066] loss of function (LOS).
+Pubmed 18264134
+Number of genes in the set:114
+________________
+
+MARKS_HDAC_TARGETS_UP
+> Genes whose transcription is up-regulated by histone deacetylase inhibitors.
+PMID: Pubmed 17322921 
+Number of genes in the set:23
+________________
+
+MARKS_HDAC_TARGETS_DN
+> Genes whose transcription is down-regulated by histone deacetylase inhibitors.
+PMID:Pubmed 17322921 
+Nmber of genes in the set:15
+

@@ -1,0 +1,112 @@
+1. Differentially expressed genes after miRNA or siRNA transfection in human cancer cell lines IV
+(Submitter supplied) To identify differentially expressed genes by anti cancer treatments (microRNAs or siRNAs) in human cancer, several cell lines (pancreatic cancer, esophageal cancer and lung squamous cell carcinoma) were subjected to Agilent whole genome microarrays.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL20844 8 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE107nnn/GSE107008/
+Series		Accession: GSE107008	ID: 200107008
+
+2. Differentially expressed genes after miRNA or siRNA transfection in multiple human cancer cell lines
+(Submitter supplied) To identify differentially expressed genes by anti cancer treatments (microRNAs or siRNAs) in human cancer, several cell lines ( pancreatic cancer, renal cell carcinoma, oral squamous cell carcinoma, prostate cancer and bladder cancer) were subjected to Agilent whole genome microarrays.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL20844 16 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE106nnn/GSE106791/
+Series		Accession: GSE106791	ID: 200106791
+
+3. Differentially expressed genes after miRNA or siRNA transfection in human cancer cell lines.
+(Submitter supplied) To identify differentially expressed genes by anti cancer treatments (microRNAs or siRNAs) in human cancer, several cell lines (lung squamous cell carcinoma, oral squamous cell carcinoma, renal cell carcinoma and prostate cancer) were subjected to Agilent whole genome microarrays.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL20844 8 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE100nnn/GSE100746/
+Series		Accession: GSE100746	ID: 200100746
+
+4. Differentially expressed genes after miRNA or siRNA transfection in human cancer cell lines Panc-1, FaDu and PC3
+(Submitter supplied) To identify differentially expressed genes by anti cancer treatments (microRNAs or siRNAs) in human cancer, several cell lines (pancreatic cancer,  hypopharyngeal squamous cell carcinoma and prostate cancer) were subjected to Agilent whole genome microarrays.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL20844 8 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE85nnn/GSE85614/
+Series		Accession: GSE85614	ID: 200085614
+
+5. Differentially expressed genes after miRNA or siRNA transfection in human cancer cell lines (III)
+(Submitter supplied) To identify differentially expressed genes by anti cancer treatments (microRNAs or siRNAs) in human cancer, several cell lines (pancreatic cancer,  esophageal cancer, tongue squamous cell carcinoma, hypopharyngeal squamous cell carcinoma and lung squamous cell carcinoma) were subjected to Agilent whole genome microarrays.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL20844 16 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE82nnn/GSE82108/
+Series		Accession: GSE82108	ID: 200082108
+
+6. Differentially expressed genes after miRNA or siRNA transfection in human cancer cell lines (II)
+(Submitter supplied) To identify differentially expressed genes by anti cancer treatments (microRNAs or siRNAs) in human cancer, several cell lines (bladder cancer, prostate cancer, renal cell carcinoma, oral squamous cell carcinoma and lung squamous cell carcinoma) were subjected to Agilent whole genome microarrays.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL16699 32 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE66nnn/GSE66498/
+Series		Accession: GSE66498	ID: 200066498
+
+7. Differentially expressed genes after miRNA or siRNA transfection in human cancer cell lines
+(Submitter supplied) To identify differentially expressed genes by anti cancer treatments (microRNAs or siRNAs) in human cancer, several cell lines (bladder cancer, prostate cancer, hypopharyngeal cancer and lung squamous cell carcinoma) were subjected to Agilent whole genome microarrays.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL16699 24 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE56nnn/GSE56243/
+Series		Accession: GSE56243	ID: 200056243
+
+8. Differentially expressed genes by anti tumor treatment in human cancer cell lines
+(Submitter supplied) To identify differentially expressed genes by anti cancer treatments (microRNAs, siRNAs and chemical compounds) in human cancer, several cell lines (prostate cancer, renal cell carcinoma and head and neck squamous cell carcinoma) were subjected to Agilent whole genome microarrays.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platforms: GPL13607 GPL16699 24 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE47nnn/GSE47657/
+Series		Accession: GSE47657	ID: 200047657
+
+9. Identification of target genes of cancer-related microRNAs in human cancer
+(Submitter supplied) To identify target genes of cancer-related microRNAs in human cancer, several cell lines (bladder cancer, prostate cancer, renal cell carcinoma, esophageal squamous cell carcinoma, and head and neck squamous cell carcinoma) were subjected to Agilent whole genome microarrays.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platforms: GPL13607 GPL10332 35 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE37nnn/GSE37119/
+Series		Accession: GSE37119	ID: 200037119
+
+10. Identification of target genes of tumor suppressor microRNAs in human cancer
+(Submitter supplied) To identify target genes of tumor suppressive microRNAs in human cancer, several cell lines (bladder cancer, prostate cancer, renal cell carcinoma, and head and neck squamous cell carcinoma) were subjected to Agilent whole genome microarrays. miR-517a, miR-218, miR-145, miR-1 and miR-874 function as tumor suppressors.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platforms: GPL4133 GPL10332 13 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE24nnn/GSE24782/
+Series		Accession: GSE24782	ID: 200024782
+
+11. Identification of miR-145 or miR-133a target genes in squamous cell carcinoma
+(Submitter supplied) We recently identified a subset of down-regulated miRNAs such as miR-145 and miR-133a in squamous cell carcinoma. Cell growth inhibitions occurred in miR-145 and miR-133a transfectants compared with the controls, suggesting that both miRNAs function as tumor suppressors. The aims of our expression studies were identification of these miRNAs target genes.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL4133 4 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE20nnn/GSE20028/
+Series		Accession: GSE20028	ID: 200020028
+
+12. Identification of miR-489 or miR-504 target genes in head and neck cancer
+(Submitter supplied) We recently identified a subset of down-regulated miRNAs such as miR-489 and miR-504 in HNSCC. Cell growth inhibitions occurred in miR-489 and miR-504 transfectants compared with the controls, suggesting that both miRNAs function as tumor suppressors. The aims of our expression studies were identification of these miRNAs target genes.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL4133 4 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE19nnn/GSE19718/
+Series		Accession: GSE19718	ID: 200019718
+
+13. Identification of miR-145 or miR-133a target genes in bladder cancer
+(Submitter supplied) We recently identified a subset of down-regulated miRNAs such as miR-145 and miR-133a in bladder cancer. Cell growth inhibitions occurred in miR-145 and miR-133a transfectants compared with the controls, suggesting that both miRNAs function as tumor suppressors. The aims of our expression studies were identification of these miRNAs target genes.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL4133 4 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE19nnn/GSE19717/
+Series		Accession: GSE19717	ID: 200019717
+
+
+14. Identification of target genes of cancer-related microRNAs in human cancer
+(Submitter supplied) To identify target genes of oncogenic or tumor suppressive microRNAs in human cancer, several cell lines (bladder cancer, prostate cancer, renal cell carcinoma. lung squamous cell carcinoma and head and neck squamous cell carcinoma) were subject to Agilent whole genome microarray. miR-183 and miR-96 function as oncogene. miR-1, miR-133a, miR-135a, miR-145 and miR-375 function as tumor suppressor
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL10332 16 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE26nnn/GSE26032/
+Series		Accession: GSE26032	ID: 200026032
